@@ -43,4 +43,4 @@
 
 <hr></hr>
 
-#### <strong> Espero que possa ter me conhecido melhor, estou em busca de oportunidades afim de desenvolver minhas habilidades, bem como, contribuir com a bagagem que adquiri na minha trajetória </strong>
+#### <strong> Espero que possa ter me conhecido melhor, estou em busca de oportunidades afim de desenvolver minhas habilidades, bem como, contribuir com a bagagem que adquiri durante a minha trajetória. 🚀</strong>
