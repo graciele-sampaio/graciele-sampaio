@@ -42,4 +42,5 @@
 
 <hr></hr>
 
+### Caso queira conversar, estarei à disposição, pode me contatar pelo linkedin: https://www.linkedin.com/in/graciele-sampaio/, ou enviar um email: gracieleleitesampaio@gmail.com
 #### <strong> Espero que possa ter me conhecido melhor, estou em busca de oportunidades afim de desenvolver minhas habilidades, bem como, contribuir com a bagagem que adquiri durante a minha trajetória. 🚀</strong>
