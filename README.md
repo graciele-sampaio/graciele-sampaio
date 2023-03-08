@@ -1,6 +1,6 @@
 ## Olá, seja muito bem vindo(a), me chamo Graciele Sampaio 👋
 
-#### De mestra em Diversidade Biológica a estudante de Desenvolvimento web. Já fiz de tudo um pouco, atuei na docência, em vendas, pesquisa científica, mas resolvi seguir pelo que o meu coração pedia: o mundo mágico da codagem.
+#### De mestra em Diversidade Biológica a estudante de Desenvolvimento web. Já atuei na docência, em vendas, pesquisa científica, mas enxerguei no desenvolvimento web uma possibilidade de liberdade geográfica, estabilidade e evolução profissional.
 
 <hr></hr>
 
@@ -8,10 +8,10 @@
 
 <ul>
   <li> Adoro estar com minha família, sair com os amigos, curtir uma boa música, um bom livro, um filme. ❤️
-  <li> Nasci e cresci na zona rural então possuo um grande afinidade a questões ambientais. Cresci rodeada por plantas e animais, sou fascinada pelas mais variadas formas de vida.🌳🐦
+  <li> Nasci e cresci na zona rural então possuo uma grande afinidade ligada à questões ambientais. Cresci rodeada por plantas e animais, sou fascinada pelas mais variadas formas de vida.🌳🐦
   <li> Durante o mestrado tive a oportunidade de viajar por alguns lugares do Brasil, despertando  em mim um interesse ainda maior pelo desenvolvimento web: a possibilidade de ter a liberdade geográfica.✈️
-   <li> Já escrevi e apresentei diversos trabalhos acadêmicos, lecionei, fui bolsista de pesquisa, desenvolvimento científico e tecnológico, já fiz publicações de artigos na área da Biologia. Então ao longo da minha carreira desenvolvi habilidades como: comunicação, colaboração, responsabilidade, criatividade, aprendizado ativo.🤓
-   <li> Gosto bastante de conhecer outras culturas, fazer novas amizades e provar diferentes culinárias.🫶
+   <li> Já escrevi e apresentei diversos trabalhos acadêmicos, lecionei, fui bolsista de pesquisa, desenvolvimento científico e tecnológico, já fiz publicações de artigos na área da Biologia. Então ao longo da minha carreira desenvolvi habilidades como: comunicação, colaboração, responsabilidade, criatividade e aprendizado ativo.🤓
+   <li> Gosto bastante de conhecer outras culturas, fazer novas amizades, provar diferentes culinárias e aprender algo novo.🫶
 </ul>
 
 <hr></hr>
@@ -19,6 +19,7 @@
 ### Minhas redes:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graciele-sampaio/) 
+<a href = "mailto:gracieleleitesampaio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <hr></hr>
 
