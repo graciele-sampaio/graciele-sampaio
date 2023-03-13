@@ -8,10 +8,10 @@
 
 <ul>
   <li> Adoro estar com minha família, sair com os amigos, curtir uma boa música, um bom livro, um bom filme. ❤️
-  <li> Nasci e cresci na zona rural então possuo uma grande afinidade ligada à questões ambientais. Cresci rodeada por plantas e animais, sou fascinada pelas mais variadas formas de vida.🌳🐦
-  <li> Durante o mestrado tive a oportunidade de viajar por alguns lugares do Brasil, despertando  em mim um interesse ainda maior pelo desenvolvimento web: a possibilidade de ter a liberdade geográfica.✈️
+  <li> Nasci e cresci na zona rural então possuo uma grande afinidade com o meio ambiente, pois cresci rodeada por plantas e animais e sou fascinada pelas mais variadas formas de vida.🌳🐦
+  <li> Durante o mestrado tive a oportunidade de viajar por alguns lugares do Brasil, despertando em mim um interesse ainda maior pelo desenvolvimento web: a possibilidade de ter a liberdade geográfica.✈️
    <li> Já escrevi e apresentei diversos trabalhos acadêmicos, lecionei, fui bolsista de pesquisa, desenvolvimento científico e tecnológico, já fiz publicações de artigos na área da Biologia. Então ao longo da minha carreira desenvolvi habilidades como: comunicação, colaboração, responsabilidade, criatividade e aprendizado ativo.🤓
-   <li> Gosto bastante de conhecer outras culturas, fazer novas amizades, provar diferentes culinárias e aprender algo novo.🫶
+   <li> Adoro conhecer outras culturas, fazer novas amizades, provar diferentes culinárias e aprender coisas novas.🫶
 </ul>
 
 <hr></hr>
