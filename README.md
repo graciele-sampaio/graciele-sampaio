@@ -1,6 +1,9 @@
 <div>
 <img align="center" alt="Header" src="https://i.imgur.com/T1RfZai.png"/>
 </div>
+
+<hr></hr>
+
 ## Olá, seja muito bem vindo(a), me chamo Graciele Sampaio 👋
 
 #### De mestra em Diversidade Biológica a Desenvolvedora web. Já atuei na docência, em vendas, pesquisa científica, mas enxerguei no desenvolvimento web uma possibilidade de liberdade geográfica, estabilidade e evolução profissional.
@@ -49,3 +52,6 @@
 #### <strong> Espero que possa ter me conhecido melhor, estou em busca de oportunidades com os objetivos de contribuir com a bagagem que adquiri durante a minha trajetória e desenvolver minhas habilidades. 🚀</strong>
 
 ##### Caso queira conversar, estarei à disposição, pode me contatar pelo linkedin: https://www.linkedin.com/in/graciele-sampaio/, ou enviar um email para: gracieleleitesampaio@gmail.com
+
+<hr></hr>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120§ion=footer"/>
