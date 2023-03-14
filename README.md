@@ -1,3 +1,6 @@
+<div>
+<img align="center" alt="Header" src="https://i.imgur.com/T1RfZai.png"/>
+</div>
 ## Olá, seja muito bem vindo(a), me chamo Graciele Sampaio 👋
 
 #### De mestra em Diversidade Biológica a Desenvolvedora web. Já atuei na docência, em vendas, pesquisa científica, mas enxerguei no desenvolvimento web uma possibilidade de liberdade geográfica, estabilidade e evolução profissional.
