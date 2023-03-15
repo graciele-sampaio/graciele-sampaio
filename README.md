@@ -2,15 +2,13 @@
   <img src="https://user-images.githubusercontent.com/102543137/225169844-e8eba287-d8e2-4b73-aa62-3a17baf61793.gif" />
 </div>
 <hr></hr>
+
 <table>
 <tr>
   <td align="center" colspan="6"></td>
 </tr>
   <td width="650px" height="50px" align="center">
-    <ul>
-      <li>
       Olá 👋,  seja muito bem vindo(a), me chamo Graciele Sampaio, sou de Missão Velha-CE, fiz transição de carreira e hoje sou desenvolvedora web 👩‍💻
-    </ul>  
   </td>
   <td><a href="https://github.com/graciele-sampaio" target="_blank"><img src="https://i.imgur.com/Pbj9mRQ.png" width="50px" height="50px"/></a>
   </td>
@@ -73,5 +71,8 @@
 
 ##### Caso queira conversar, estarei à disposição, pode me contatar pelo linkedin: https://www.linkedin.com/in/graciele-sampaio/, ou enviar um email para: gracieleleitesampaio@gmail.com
 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/102543137/225179273-4cbe1fe5-dfe7-40e9-ada1-08554aac1004.gif" />
+</div>
 <hr></hr>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120§ion=footer"/>
