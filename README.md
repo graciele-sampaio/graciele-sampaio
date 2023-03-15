@@ -3,11 +3,11 @@
 </div>
 <hr></hr>
 
-<table>
+<table align="center">
 <tr>
   <td align="center" colspan="6"></td>
 </tr>
-  <td width="650px" height="50px" align="center">
+  <td width="600px" height="50px" align="center">
       Olá 👋,  seja muito bem vindo(a), me chamo Graciele Sampaio, sou de Missão Velha-CE, fiz transição de carreira e hoje sou desenvolvedora web 👩‍💻
   </td>
   <td><a href="https://github.com/graciele-sampaio" target="_blank"><img src="https://i.imgur.com/Pbj9mRQ.png" width="50px" height="50px"/></a>
