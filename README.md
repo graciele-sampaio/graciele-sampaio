@@ -22,13 +22,22 @@
 </td>
 </table> 
 
-
 <div align="justify"
 #### De mestra em Diversidade Biológica a Desenvolvedora web. Já atuei na docência, em vendas, pesquisa científica, mas enxerguei no desenvolvimento web uma possibilidade de liberdade geográfica, estabilidade e evolução profissional.
 </div>
 <hr></hr>
 
-#### <strong> Um pouco sobre mim: </strong>
+
+### <img width="30px" src="https://user-images.githubusercontent.com/102543137/225368323-f98c955d-6313-4045-8383-cfd0bca479d7.gif"/><strong> Um pouco sobre minha história: </strong>
+<div align="justify"
+Já fui professora, vendedora, pesquisadora e hoje desenvolvedora. 
+
+Minha jornada na docência começou bem cedo, aos 15 anos, no último ano do Ensino Médio, fiz parte de um projeto que tinha por objetivo ofertar bolsas a alunos para serem orientadores em reforço escolar, podendo assim auxiliar os alunos com dificuldades em aprendizagem, ministrando Português e Matemática. Por ser apaixonada pelas mais variadas formas de vida ingressei na graduação em Ciências Biológicas na <a href="http://www.urca.br/portal2/" target="_blank">Uiversidade Regional do Cariri</a>, continuei na docência sendo professora na rede municipal de ensino, ministrando Matemática e Ciências. Fui bolsista do <a href="https://www.gov.br/cnpq/pt-br" target="blank">CNPq</a> em um projeto de Extensão Tecnológica e Inclusão Digital que tinha por objetivo levar os alunos à inclusão digital, fui bolsista em um laboratório na Universidade na qual estudei auxiliando em aulas práticas na disciplina de Bioquímica, atuei ativamente na pesquisa, participei de diversos eventos científicos, minha linha de pesquisa eram temas ligados à educação, Meio ambiente e botânica. Após a formatura, fiz especialização e mestrado. 
+
+Ao concluir o mestrado no período da pandemia, pude enxergar na Tecnologia uma possível transição de carreira, que me possibilitaria liberdade geográfica, uma estabilidade e evolução profissional, pois mesmo quando não era o foco principal da minha vida, sempre esteve presente em meu cotidiano. Além disso, seria enfim a oportunidade de finalmente entender como os softwares funcionavam através daquelas misteriosas linhas de código e sair de espectadora para desenvolvedora nesse mundo incrível da codagem.
+
+Fiz transição de carreira para o Desenvolvimento web, desenvolvi mais de 30 projetos, sendo um em dupla e quatro deles em grupo e posso aqui destacar habilidades que venho aperfeiçoando nessa trajetória, como: colaboração, comunicação, organização além de aprendizado contínuo.
+</div>
 
 <ul>
   <li> Adoro estar com minha família, sair com os amigos, curtir uma boa música, um bom livro, um bom filme. ❤️
