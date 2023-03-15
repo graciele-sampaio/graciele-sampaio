@@ -1,13 +1,33 @@
-<div>
-![Header read me](https://user-images.githubusercontent.com/102543137/225169844-e8eba287-d8e2-4b73-aa62-3a17baf61793.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/102543137/225169844-e8eba287-d8e2-4b73-aa62-3a17baf61793.gif" />
 </div>
-
 <hr></hr>
+<table>
+<tr>
+  <td align="center" colspan="6"></td>
+</tr>
+  <td width="650px" height="50px" align="center">
+    <ul>
+      <li>
+      Olá 👋,  seja muito bem vindo(a), me chamo Graciele Sampaio, sou de Missão Velha-CE, fiz transição de carreira e hoje sou desenvolvedora web 👩‍💻
+    </ul>  
+  </td>
+  <td><a href="https://github.com/graciele-sampaio" target="_blank"><img src="https://i.imgur.com/Pbj9mRQ.png" width="50px" height="50px"/></a>
+  </td>
+  <td><a href="mailto:gracieleleitesampaio@gmail.com" target="_blank"><img src="https://i.imgur.com/M4MbAMt.png" width="50px" height="50px"/></a>
+  </td>
+  <td><a href="https://www.linkedin.com/in/graciele-sampaio/" target="_blank"><img     src="https://i.imgur.com/KbcPtwU.png" width="50px" height="50px"/>   </a>
+  </td>
+  <td><a href="http://lattes.cnpq.br/6942060874430265" target="_blank"><img src="https://i.imgur.com/mj95HiM.png" width="50px" height="50px"/></a>
+  </td>
+  <td><a href="https://scholar.google.com.br/citations?hl=pt-BR&user=Pmewu-YAAAAJ" target="_blank"><img   src="https://i.imgur.com/fGTtwtL.png" width="50px" height="50px"/></a>
+</td>
+</table> 
 
-## Olá, seja muito bem vindo(a), me chamo Graciele Sampaio 👋
 
+<div align="justify"
 #### De mestra em Diversidade Biológica a Desenvolvedora web. Já atuei na docência, em vendas, pesquisa científica, mas enxerguei no desenvolvimento web uma possibilidade de liberdade geográfica, estabilidade e evolução profissional.
-
+</div>
 <hr></hr>
 
 #### <strong> Um pouco sobre mim: </strong>
