@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/102543137/225169844-e8eba287-d8e2-4b73-aa62-3a17baf61793.gif" />
+  <img alt="GIF" src="https://user-images.githubusercontent.com/102543137/225169844-e8eba287-d8e2-4b73-aa62-3a17baf61793.gif" />
 </div>
 <hr></hr>
 
@@ -28,7 +28,7 @@
 <hr></hr>
 
 
-### <img width="30px" src="https://user-images.githubusercontent.com/102543137/225368323-f98c955d-6313-4045-8383-cfd0bca479d7.gif"/><strong> Um pouco sobre minha história: </strong>
+### <img width="30px" alt="image" src="https://user-images.githubusercontent.com/102543137/225368323-f98c955d-6313-4045-8383-cfd0bca479d7.gif"/><strong> Um pouco sobre minha história: </strong>
 <div align="justify"
 Já fui professora, vendedora, pesquisadora e hoje desenvolvedora. 
 
@@ -36,18 +36,18 @@ Minha jornada na docência começou bem cedo, aos 15 anos, no último ano do Ens
 
 Após a formatura, fiz especialização em Educação Ambiental e Desenvolvimento Sustentável na <a href="https://faveni.edu.br/?gclid=Cj0KCQjw2cWgBhDYARIsALggUhrl9mnGKSkbRXka2W_SYblw-PB9dOEdnoHJdeWHIrV7u5wxSI-P0TIaAuF7EALw_wcB" target="_blank">Faculdade Venda Nova do Imigrante-FAVENI</a> e mestrado em <a href="http://www.urca.br/ppgdr/" target="blank">Diversidade Biológica e Recursos Naturais<a/> na <a href="http://www.urca.br/portal2/" target="_blank">Universidade Regional do Cariri-URCA</a>, fui bolsista da <a href="https://www.funcap.ce.gov.br/" target="blank">Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico</a>, a qual financiou o meu projeto de pesquisa que resultou na minha <a href="http://www.urca.br/ppgdr/wp-content/uploads/sites/38/2022/09/DISSERTACAO-FRANCISCA-GRACIELE-LEITE.pdf" target="_blank">dissertação</a> com dois artigos e dois guias de campo publicados.  
 
-Ao concluir o mestrado no período da pandemia, montei uma loja online onde vendo artesanatos, então passei a enxergar na Tecnologia uma possível transição de carreira, que me possibilitaria liberdade geográfica, uma estabilidade e evolução profissional, pois mesmo quando não era o foco principal da minha vida, sempre esteve presente em meu cotidiano. Além disso, seria enfim a oportunidade de finalmente entender como os softwares funcionavam através daquelas misteriosas linhas de código e sair de espectadora para desenvolvedora nesse mundo incrível da codagem.
+Ao concluir o mestrado no período da pandemia, montei uma loja online onde vendo artesanatos, passei a enxergar na Tecnologia uma possível transição de carreira, que me possibilitaria liberdade geográfica, uma estabilidade e evolução profissional, pois mesmo quando não era o foco principal da minha vida, sempre esteve presente em meu cotidiano. Além disso, seria enfim a oportunidade de finalmente entender como os softwares funcionavam através daquelas misteriosas linhas de código e sair de espectadora para desenvolvedora nesse mundo incrível da codagem.
 
 Fiz transição de carreira para o Desenvolvimento web, estou concluindo o curso de Desenvolvimento Web na <a href="https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-468157942290&hsa_kw=trybe&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw2cWgBhDYARIsALggUhqdBEygtf4Z6VVOhyuLq5if5rVGP_aYPcBNrrmjSe3ENPwywkvi3rsaAi8LEALw_wcB" target="blank">Trybe</a> desenvolvi mais de 30 projetos, sendo um em dupla e quatro deles em grupo e posso aqui destacar habilidades que venho aperfeiçoando nessa trajetória, como: colaboração, comunicação, organização, além de aprendizado contínuo.
 </div>
 
 <hr></hr>
 <div>
-   <img align="right" alt="GIF" src="https://i.imgur.com/AkSECTX.png" width="300px" height="300px"/>
+   <img align="right" alt="image" src="https://i.imgur.com/SAivBlQ.png" width="300px" height="300px"/>
 </div>
 
-### <img width="30px" src="https://user-images.githubusercontent.com/102543137/225368323-f98c955d-6313-4045-8383-cfd0bca479d7.gif"/><strong> Curiosidades sobre mim: </strong>
-<div align="left"
+### <img width="30px" alt="image" src="https://user-images.githubusercontent.com/102543137/225368323-f98c955d-6313-4045-8383-cfd0bca479d7.gif"/><strong> Curiosidades sobre mim: </strong>
+<div align="justify"
 <ul>
   <li> ❤️ Adoro estar com minha família, sair com os amigos, curtir uma boa música, um bom livro, um bom filme. 
   <li> 🌳 Nasci e cresci na zona rural então possuo uma grande afinidade com o meio ambiente, pois sempre estive rodeada por plantas e animais e sou fascinada pelas mais variadas formas de vida.
@@ -56,15 +56,6 @@ Fiz transição de carreira para o Desenvolvimento web, estou concluindo o curso
    <li> 🫶 Adoro conhecer outras culturas, fazer novas amizades, provar diferentes culinárias e aprender coisas novas.
    <li> 💡 Sempre fui muito criativa, eu quem inventava brincadeiras, brinquedos, gostava de participar de atividades práticas e dinâmicas tanto na escola como na igreja e atualmente vendo artesanato online, adoro trabalhos manuais e me divirto muito.
 </ul>
-
-
-
-<hr></hr>
-
-### Minhas redes:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graciele-sampaio/) 
-<a href = "mailto:gracieleleitesampaio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <hr></hr>
 
