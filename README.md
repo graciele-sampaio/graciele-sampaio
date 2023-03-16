@@ -72,12 +72,10 @@ Fiz transição de carreira para o Desenvolvimento web, estou concluindo o curso
 
 <hr></hr>
 
-![Graciele Sampaio GitHub stats](https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=dracula)
-
 <div align="center">
   <a href="https://github.com/graciele-sampaio">
-  <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=tokyonight"/>
-  <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciele-sampaio&layout=compact&theme=tokyonight"/>
+  <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=dracula"/>
+  <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciele-sampaio&layout=compact&theme=dracula"/>
 </div>
   
 <hr></hr>
