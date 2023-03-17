@@ -54,7 +54,7 @@ Fiz transição de carreira para o Desenvolvimento web, estou concluindo o curso
   <li> ✈️ Durante o mestrado tive a oportunidade de viajar por alguns lugares do Brasil, despertando em mim um interesse ainda maior pelo Desenvolvimento web: a possibilidade de ter a liberdade geográfica.
    <li> 🤓 Já escrevi e apresentei diversos trabalhos acadêmicos, lecionei, fui bolsista de pesquisa, desenvolvimento científico e tecnológico, já fiz publicações de artigos na área da Biologia. Então ao longo da minha carreira desenvolvi habilidades como: comunicação, colaboração, responsabilidade, criatividade e aprendizado ativo.
    <li> 🫶 Adoro conhecer outras culturas, fazer novas amizades, provar diferentes culinárias e aprender coisas novas.
-   <li> 💡 Sempre fui muito criativa, eu quem inventava brincadeiras, brinquedos, gostava de participar de atividades práticas e dinâmicas tanto na escola como na igreja e atualmente vendo artesanato online, adoro trabalhos manuais e me divirto muito.
+   <li> 💡 Sempre fui muito criativa,quando criança amava inventar novas brincadeiras(escorregador em um terreno declinado na roça do meu avô, ou pista de obstáculos no terreiro da casa), brinquedos(carrinho com pedaço de madeira e como rodas as latas de óleo, marioentes com linha e tampas de garrafa) e entre várias outras inveções. Gostava de participar de atividades práticas e dinâmicas tanto na escola como na igreja e atualmente vendo artesanato online, adoro trabalhos manuais e me divirto muito.
 </ul>
 
 <hr></hr>
