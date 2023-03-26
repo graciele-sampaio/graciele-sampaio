@@ -62,8 +62,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 ### Tecnologias que uso no meu dia a dia:
 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="JavaScript logo" title="JavaScript" height="25" />]
-&nbsp;
+<code><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></code> 
 
 
 ![Git Hub Badges](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
