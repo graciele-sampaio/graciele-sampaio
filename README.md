@@ -43,7 +43,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 <hr></hr>
 <div>
-   <img align="right" alt="image" src="https://i.imgur.com/SAivBlQ.png" width="500px" height="500px"/>
+   <img align="right" alt="image" src="https://i.imgur.com/SAivBlQ.png" width="400px" height="400px"/>
 </div>
 
 ### <img width="30px" alt="image" src="https://user-images.githubusercontent.com/102543137/225368323-f98c955d-6313-4045-8383-cfd0bca479d7.gif"/><strong> Curiosidades sobre mim: </strong>
