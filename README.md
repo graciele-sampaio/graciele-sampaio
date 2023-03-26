@@ -14,12 +14,15 @@
   </td>
   <td><a href="mailto:gracieleleitesampaio@gmail.com" target="_blank"><img src="https://i.imgur.com/M4MbAMt.png" width="50px" height="50px"/></a>
   </td>
-  <td><a href="https://www.linkedin.com/in/graciele-sampaio/" target="_blank"><img     src="https://i.imgur.com/KbcPtwU.png" width="50px" height="50px"/>   </a>
+  <td><a href="https://www.linkedin.com/in/graciele-sampaio/" target="_blank"><img src="https://i.imgur.com/KbcPtwU.png" width="50px" height="50px"/>   </a>
   </td>
   <td><a href="http://lattes.cnpq.br/6942060874430265" target="_blank"><img src="https://i.imgur.com/mj95HiM.png" width="50px" height="50px"/></a>
   </td>
   <td><a href="https://scholar.google.com.br/citations?hl=pt-BR&user=Pmewu-YAAAAJ" target="_blank"><img   src="https://i.imgur.com/fGTtwtL.png" width="50px" height="50px"/></a>
 </td>
+  <tr>
+  <td align="center" colspan="6"></td>
+</tr>
 </table> 
 
 <div align="justify"
