@@ -61,7 +61,9 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 <hr></hr>
 
 ### Tecnologias que uso no meu dia a dia:
-### Tecnologias que uso no meu dia a dia:
+
+[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML logo" title="HTML" />][tech_tools_anchor]
+&nbsp;
 ![Git Hub Badges](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git Hub Badges](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git Hub Badges](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
