@@ -43,7 +43,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 <hr></hr>
 <div>
-   <img align="right" alt="image" src="https://i.imgur.com/SAivBlQ.png" width="400px" height="400px"/>
+   <img align="right" alt="image" src="https://i.imgur.com/SAivBlQ.png" width="500px" height="500px"/>
 </div>
 
 ### <img width="30px" alt="image" src="https://user-images.githubusercontent.com/102543137/225368323-f98c955d-6313-4045-8383-cfd0bca479d7.gif"/><strong> Curiosidades sobre mim: </strong>
@@ -51,10 +51,9 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 <ul>
   <li> ❤️ Adoro estar com minha família, sair com os amigos, curtir uma boa música, um bom livro, um bom filme. 
   <li> 🌳 Nasci e cresci na zona rural, possuo uma grande afinidade com o meio ambiente, sou fascinada pelas mais variadas formas de vida.
-  <li> ✈️ Durante o mestrado tive a oportunidade de viajar por alguns lugares do Brasil, despertando em mim um interesse ainda maior pelo Desenvolvimento web: a possibilidade de ter a liberdade geográfica.
+  <li> ✈️ Durante o mestrado tive a oportunidade de viajar por alguns lugares do Brasil, adoro conhecer outros lugares e culturas, fazer novas amizades, provar diferentes culinárias e aprender coisas novas.
    <li> 🤓 Já escrevi e apresentei diversos trabalhos acadêmicos, lecionei, fui bolsista de pesquisa, fiz publicações de artigos na área da Biologia. Então ao longo da minha carreira venho desenvolvendo habilidades como: colaboração, comunicação, responsabilidade, organização, criatividade e aprendizado ativo.
-   <li> 🫶 Adoro conhecer outras culturas, fazer novas amizades, provar diferentes culinárias e aprender coisas novas.
-   <li> 💡 Sempre fui muito criativa,quando criança amava inventar novas brincadeiras, gostava de participar de atividades práticas e dinâmicas tanto na escola como na igreja e atualmente vendo artesanato online, adoro trabalhos manuais e me divirto muito.
+   <li> 💡 Sempre fui muito criativa,gostava de participar de atividades práticas e dinâmicas tanto na escola como na igreja, atualmente vendo artesanato online, adoro trabalhos manuais e me divirto muito.
 </ul>
 
 <hr></hr>
