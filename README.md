@@ -49,7 +49,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 ### <img width="30px" alt="image" src="https://user-images.githubusercontent.com/102543137/225368323-f98c955d-6313-4045-8383-cfd0bca479d7.gif"/><strong> Curiosidades sobre mim: </strong>
 <div align="justify"
 <ul>
-  <li> ❤️ Adoro estar com minha família, sair com os amigos, curtir uma boa música, um bom livro, um bom filme e fazer artesanto, gosto muito e me divirto bastante com trabalhos manuais. 
+  <li> ❤️ Adoro estar com minha família, sair com os amigos, curtir uma boa música, um bom livro, um bom filme e trabalhar minha criatividade através do artesanato, gosto muito e me divirto bastante com trabalhos manuais. 
   <li> 🌳 Nasci e cresci na zona rural, possuo uma grande afinidade com o meio ambiente, sou fascinada pelas mais variadas formas de vida.
   <li> ✈️ Durante o mestrado tive a oportunidade de viajar por alguns lugares do Brasil, adoro conhecer outros lugares e culturas, fazer novas amizades, provar diferentes culinárias e aprender coisas novas.
    <li> 🤓 Já escrevi e apresentei diversos trabalhos acadêmicos, lecionei, fui bolsista de pesquisa, fiz publicações de artigos na área da Biologia. Então ao longo da minha carreira venho desenvolvendo habilidades como: colaboração, comunicação, responsabilidade, organização, criatividade e aprendizado ativo.
