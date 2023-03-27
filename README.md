@@ -63,9 +63,9 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 ### Tecnologias:
 [<img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="chai" title="chai" height="25" />](https://www.chaijs.com/api/bdd/)
-
+&nbsp;
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" height="25" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
+&nbsp;
 [<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" height="25" />](https://docs.docker.com/get-started/overview/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" title="Express" height="25" />](https://devdocs.io/express/)
