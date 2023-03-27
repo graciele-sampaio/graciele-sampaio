@@ -122,7 +122,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 <div align="center">
   <a href="https://github.com/graciele-sampaio">
-  <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=dracula"/>
+  <img witdh="200px"" src="https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=dracula"/>
   <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciele-sampaio&layout=compact&theme=dracula"/>
 </div>
  
@@ -137,7 +137,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 </div>
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/graciele-sampaio/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/graciele-sampaio/count.svg" alt="counter" align="center">
 </div>
 
 <hr></hr>
