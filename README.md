@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="GIF" src="https://user-images.githubusercontent.com/102543137/225169844-e8eba287-d8e2-4b73-aa62-3a17baf61793.gif" href="https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-468157942290&hsa_kw=trybe&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw_YShBhAiEiwAMomsEIAunxWmQCMfSNsYrADL2yPzac49eKwMPMKZ85sKe70z1oepRCavnRoCONAQAvD_BwE"/>
+  <img alt="GIF" src="https://user-images.githubusercontent.com/102543137/225169844-e8eba287-d8e2-4b73-aa62-3a17baf61793.gif"/>
 </div>
 <hr></hr>
 
