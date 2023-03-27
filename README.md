@@ -128,10 +128,10 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=graciele-sampaio&bg_color=292929&color=fe298d&line=fe298d&point=ff94b9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>	
+<div align="center">	
 <a href="https://www.linkedin.com/in/graciele-sampaio/" alt="LinkedIn" title="LinkedIn" align="center" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>	
-&nbsp;
-<a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" align="center" target="_blank"><img src="gracieleleitesampaio@gmail.com"</a>	
+&nbsp;	
+<a href="gracieleleitesampaio@gmail.com" alt="Gmail" title="Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>	
 &nbsp;	
 </div>
 	
