@@ -93,9 +93,9 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="25" />](https://dev.mysql.com/doc/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" title="Node" height="25" />](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+[<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" title="Node" height="25" />](https://nodejs.org/en/docs)
 &nbsp;
-[<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="20Photoshop" title="20Photoshop" height="25" />](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+[<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="20Photoshop" title="20Photoshop" height="25" />](https://www.adobe.com/br/products/photoshop/landpa.html?gclid=CjwKCAjw_YShBhAiEiwAMomsEM1YCYV9Kgs1rUtY3uRiLtgX0qa3-ygwVzepzXGDXGbMZNlMN2blKhoCBysQAvD_BwE&sdid=KQPOM&mv=search&ef_id=CjwKCAjw_YShBhAiEiwAMomsEM1YCYV9Kgs1rUtY3uRiLtgX0qa3-ygwVzepzXGDXGbMZNlMN2blKhoCBysQAvD_BwE:G:s&s_kwcid=AL!3085!3!534509111908!b!!g!!%2Bphotoshop!11413139955!113176389033)
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" title="Python" height="25" />](https://docs.python.org/3/)
 &nbsp;
