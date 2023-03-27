@@ -130,11 +130,10 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=graciele-sampaio&bg_color=292929&color=fe298d&line=fe298d&point=ff94b9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin" height="25" />](https://www.linkedin.com/in/graciele-sampaio/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" height="25" />](gracieleleitesampaio@gmail.com)
-</div>
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin" height="25" align="center" />](https://www.linkedin.com/in/graciele-sampaio/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" height="25" align="center" />](gracieleleitesampaio@gmail.com)
+&nbsp;
 <div align="center">
 <img src="https://profile-counter.glitch.me/graciele-sampaio/count.svg" alt="counter" align="center">
 </div>
