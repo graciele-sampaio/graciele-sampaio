@@ -123,16 +123,16 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
   <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=dracula"/>
   <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciele-sampaio&layout=compact&theme=dracula"/>
 </div>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graciele-sampaio&theme=transparent&show_icons=true)
+ 
   
 <hr></hr>
 
 #### <strong> Espero que possa ter me conhecido melhor, estou em busca de oportunidades com os objetivos de contribuir com a bagagem que adquiri durante a minha trajetória e desenvolver minhas habilidades. 🚀</strong>
 
-##### Caso queira conversar, estarei à disposição, pode me contatar pelo linkedin: https://www.linkedin.com/in/graciele-sampaio/, ou enviar um email para: gracieleleitesampaio@gmail.com
+##### Caso queira conversar, estarei à disposição, pode me contatar pelo linkedin: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin" height="25" />](https://www.linkedin.com/in/graciele-sampaio/)
+&nbsp;https://www.linkedin.com/in/graciele-sampaio/, ou enviar um email para: gracieleleitesampaio@gmail.com
 
-
+	
 <div align="center">
   <img src="https://user-images.githubusercontent.com/102543137/225179273-4cbe1fe5-dfe7-40e9-ada1-08554aac1004.gif" />
 </div>
