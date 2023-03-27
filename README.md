@@ -135,7 +135,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/graciele-sampaio/count.svg" alt="hit counter" align="center">
 </div>
 
 	
