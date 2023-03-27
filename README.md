@@ -129,7 +129,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
   
 <hr></hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=graciele-sampaio&bg_color=1c1c1c&color=8000ff&line=8000ff&point=a8a8a8&area=true&hide_border=true)](https://github.com/graciele-sampaio/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=graciele-sampaio&bg_color=292929&color=fe298d&line=fe298d&point=ff94b9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### <div align="justify"> Espero que possa ter me conhecido melhor, estou em busca de oportunidades como desenvolvedora web com os objetivos de contribuir com a bagagem que adquiri durante a minha trajetória e desenvolver minhas habilidades. 🚀
 
