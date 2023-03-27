@@ -60,8 +60,6 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 <hr></hr>
 
-### Tecnologias que uso no meu dia a dia:
-
 
 ### Tecnologias:
 [<img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="chai" title="chai" height="25" />](https://www.chaijs.com/api/bdd/)
@@ -84,15 +82,15 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 &nbsp;
 [<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" title="JWT" height="25" />](https://jwt.io/)
 &nbsp;
-[<img src="hhttps://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" title="Linux" height="25" />](https://4linux.com.br/o-que-e-linux/)
+[<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" title="Linux" height="25" />](https://4linux.com.br/o-que-e-linux/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" title="Mocha" height="25" />](https://mochajs.org/api/)
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="25" />](https://www.mongodb.com/docs/)
 &nbsp;
-[<img src="hhttps://img.shields.io/badge/mongoose-%23F05033.svg?style=for-the-badge&logo=mongoose&logoColor=407399&color=1c1c1c" alt="Mongoose" title="Mongoose" height="25" />](https://mongoosejs.com/docs/guide.html)
+[<img src="https://img.shields.io/badge/mongoose-%23F05033.svg?style=for-the-badge&logo=mongoose&logoColor=407399&color=1c1c1c" alt="Mongoose" title="Mongoose" height="25" />](https://mongoosejs.com/docs/guide.html)
 &nbsp;
-[<img src="hhttps://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="25" />](https://dev.mysql.com/doc/)
+[<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="25" />](https://dev.mysql.com/doc/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" title="Node" height="25" />](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 &nbsp;
@@ -108,7 +106,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 &nbsp;
 [<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="RTL" title="RTL" height="25" />](https://testing-library.com/docs/react-testing-library/intro/)
 &nbsp;
-[<img src="hhttps://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" title="Sequelize" height="25" />](https://sequelize.org/docs/v6/)
+[<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" title="Sequelize" height="25" />](https://sequelize.org/docs/v6/)
 &nbsp;
 [<img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" alt="sinon" title="sinon" height="25" />](https://sinonjs.org/releases/latest/)
 &nbsp;
