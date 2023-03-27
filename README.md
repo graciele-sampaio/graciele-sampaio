@@ -124,13 +124,12 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
   <a href="https://github.com/graciele-sampaio">
   <img witdh="200px" src="https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=dracula"/>
   <img witdh="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciele-sampaio&layout=compact&theme=dracula"/>
-  <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graciele-sampaio&theme=github_dark"/>
 </div>
  
   
 <hr></hr>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=graciele-sampaio&bg_color=1c1c1c&color=8000ff&line=8000ff&point=a8a8a8&area=true&hide_border=true)](https://github.com/graciele-sampaio/github-readme-activity-graph)
 
 #### <div align="justify"> Espero que possa ter me conhecido melhor, estou em busca de oportunidades como desenvolvedora web com os objetivos de contribuir com a bagagem que adquiri durante a minha trajetória e desenvolver minhas habilidades. 🚀
 
