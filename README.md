@@ -129,15 +129,17 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
   
 <hr></hr>
 
-#### <strong> Espero que possa ter me conhecido melhor, estou em busca de oportunidades com os objetivos de contribuir com a bagagem que adquiri durante a minha trajetória e desenvolver minhas habilidades. 🚀</strong>
+<div align="center">
+#### <strong> Espero que possa ter me conhecido melhor, estou em busca de oportunidades como desenvolvedora web com os objetivos de contribuir com a bagagem que adquiri durante a minha trajetória e desenvolver minhas habilidades. 🚀</strong>
 
 ##### Caso queira conversar, estarei à disposição, pode me contatar pelo linkedin: https://www.linkedin.com/in/graciele-sampaio/, ou enviar um email para: gracieleleitesampaio@gmail.com
-
+</div>
 
 <div align="center">
 <img src="https://profile-counter.glitch.me/graciele-sampaio/count.svg" alt="hit counter" align="center">
 </div>
 
+<hr></hr>
 	
 <div align="center">
   <img src="https://user-images.githubusercontent.com/102543137/225179273-4cbe1fe5-dfe7-40e9-ada1-08554aac1004.gif" />
