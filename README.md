@@ -134,6 +134,8 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 <a href="mailto:gracieleleitesampaio@gmail.com" alt="Gmail" title="Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>	
 &nbsp;	
 </div>
+<br>
+<br>
 	
 <div align="center">
 <img src="https://profile-counter.glitch.me/graciele-sampaio/count.svg" alt="counter" align="center">
