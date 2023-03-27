@@ -122,7 +122,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 <div align="center">
   <a href="https://github.com/graciele-sampaio">
-  <img witdh="200px"" src="https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=dracula"/>
+  <img witdh="200px" src="https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=dracula"/>
   <img witdh="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciele-sampaio&layout=compact&theme=dracula"/>
 </div>
  
