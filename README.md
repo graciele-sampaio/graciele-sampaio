@@ -62,7 +62,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 <hr></hr>
 
-### <img width="30px" alt="image" src="https://user-images.githubusercontent.com/102543137/225368323-f98c955d-6313-4045-8383-cfd0bca479d7.gif"/><strong> Tecnologias: </strong>
+### <img width="30px" alt="image" src="https://user-images.githubusercontent.com/102543137/225368323-f98c955d-6313-4045-8383-cfd0bca479d7.gif"/><strong> Tecnologias e ferramentas: </strong>
 [<img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="chai" title="chai" height="25" />](https://www.chaijs.com/api/bdd/)
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" height="25" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
