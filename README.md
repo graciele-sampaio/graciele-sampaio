@@ -131,7 +131,7 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 <div align="center">	
 <a href="https://www.linkedin.com/in/graciele-sampaio/" alt="LinkedIn" title="LinkedIn" align="center" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>	
 &nbsp;	
-<a href="gracieleleitesampaio@gmail.com" alt="Gmail" title="Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>	
+<a href="mailto:gracieleleitesampaio@gmail.com" alt="Gmail" title="Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>	
 &nbsp;	
 </div>
 	
