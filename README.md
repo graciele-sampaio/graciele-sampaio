@@ -131,8 +131,9 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 ##### Caso queira conversar, estarei à disposição, pode me contatar pelo linkedin: https://www.linkedin.com/in/graciele-sampaio/, ou enviar um email para: gracieleleitesampaio@gmail.com
 
+<div align="center>
 ![](https://komarev.com/ghpvc/?username=graciele-sampaio&color=blueviolet)
-
+</div>
 	
 <div align="center">
   <img src="https://user-images.githubusercontent.com/102543137/225179273-4cbe1fe5-dfe7-40e9-ada1-08554aac1004.gif" />
