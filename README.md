@@ -62,22 +62,62 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 ### Tecnologias que uso no meu dia a dia:
 
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
+
+### Tecnologias:
+[<img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="chai" title="chai" height="25" />](https://www.chaijs.com/api/bdd/)
 &nbsp;
-
-
-![Git Hub Badges](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git Hub Badges](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git Hub Badges](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![Git Hub Badges](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git Hub Badges](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git Hub Badges](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Git Hub Badges](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git Hub Badges](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git Hub Badges](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git Hub Badges](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git Hub Badges](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git Hub Badges](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" height="25" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" height="25" />](https://docs.docker.com/get-started/overview/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" title="Express" height="25" />](https://devdocs.io/express/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma" height="25" />](https://www.figma.com/)
+&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" height="25" />](https://docs.github.com/pt)
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="25" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+&nbsp;
+[<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" title="Jest" height="25" />](https://jestjs.io/docs/getting-started)
+&nbsp;
+[<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" title="JWT" height="25" />](https://jwt.io/)
+&nbsp;
+[<img src="hhttps://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" title="Linux" height="25" />](https://4linux.com.br/o-que-e-linux/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" title="Mocha" height="25" />](https://mochajs.org/api/)
+&nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="25" />](https://www.mongodb.com/docs/)
+&nbsp;
+[<img src="hhttps://img.shields.io/badge/mongoose-%23F05033.svg?style=for-the-badge&logo=mongoose&logoColor=407399&color=1c1c1c" alt="Mongoose" title="Mongoose" height="25" />](https://mongoosejs.com/docs/guide.html)
+&nbsp;
+[<img src="hhttps://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="25" />](https://dev.mysql.com/doc/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" title="Node" height="25" />](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+&nbsp;
+[<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="20Photoshop" title="20Photoshop" height="25" />](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" title="Python" height="25" />](https://docs.python.org/3/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" title="Railway" height="25" />](https://docs.railway.app/)
+&nbsp;
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" height="25" />](https://pt-br.reactjs.org/docs/getting-started.html)
+&nbsp;
+[<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" title="Redux" height="25" />](https://react-redux.js.org/)
+&nbsp;
+[<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="RTL" title="RTL" height="25" />](https://testing-library.com/docs/react-testing-library/intro/)
+&nbsp;
+[<img src="hhttps://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" title="Sequelize" height="25" />](https://sequelize.org/docs/v6/)
+&nbsp;
+[<img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" alt="sinon" title="sinon" height="25" />](https://sinonjs.org/releases/latest/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" title="Trello" height="25" />](https://blog.trello.com/br)
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="typescript" height="25" />](https://www.typescriptlang.org/docs/)
+&nbsp;
+[<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" title="VSCode" height="25" />](https://code.visualstudio.com/docs)
+&nbsp;
 
 <hr></hr>
 
