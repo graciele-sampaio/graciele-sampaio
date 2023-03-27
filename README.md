@@ -129,8 +129,9 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 #### <strong> Espero que possa ter me conhecido melhor, estou em busca de oportunidades com os objetivos de contribuir com a bagagem que adquiri durante a minha trajetória e desenvolver minhas habilidades. 🚀</strong>
 
-##### Caso queira conversar, estarei à disposição, pode me contatar pelo linkedin: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin" height="25" />](https://www.linkedin.com/in/graciele-sampaio/)
-&nbsp;https://www.linkedin.com/in/graciele-sampaio/, ou enviar um email para: gracieleleitesampaio@gmail.com
+##### Caso queira conversar, estarei à disposição, pode me contatar pelo linkedin: https://www.linkedin.com/in/graciele-sampaio/, ou enviar um email para: gracieleleitesampaio@gmail.com
+
+![](https://komarev.com/ghpvc/?username=graciele-sampaio&color=blueviolet)
 
 	
 <div align="center">
