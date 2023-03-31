@@ -120,17 +120,13 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 <hr></hr>
 
-<div align="left" width="100">
+<div align="center" width="100">
   <a href="https://github.com/graciele-sampaio">
   <img src="https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=dracula"/>
-</div>
-<div align="left"  width="100">	
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciele-sampaio&layout=compact&theme=dracula"/>
 </div>
 
-<div align="rigth"  width="100">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=graciele-sampaio&bg_color=292929&color=fe298d&line=fe298d&point=ff94b9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
 	
 <br>
 <div align="center">	
