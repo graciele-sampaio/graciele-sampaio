@@ -120,11 +120,11 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 <hr></hr>
 
-<div align="left" width="250">
+<div align="left" width="150">
   <a href="https://github.com/graciele-sampaio">
   <img src="https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=dracula"/>
 </div>
-<div align="left"  width="250">	
+<div align="left"  width="150">	
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciele-sampaio&layout=compact&theme=dracula"/>
 </div>
 
