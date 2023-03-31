@@ -37,7 +37,7 @@ Já fui professora, vendedora, pesquisadora e hoje desenvolvedora.
 
 Minha jornada na docência começou bem cedo, aos 15 anos, no último ano do Ensino Médio,quando fiz parte de um projeto que tinha por objetivo ofertar bolsas a alunos para serem orientadores em reforço escolar, podendo assim auxiliar os alunos com dificuldades em aprendizagem, ministrando Português e Matemática. 
      
-Por acreditar no poder da educação e por ser fascinada pelas mais variadas formas de vida, ingressei na graduação em Ciências Biológicas na <a href="http://www.urca.br/portal2/" target="_blank">Universidade Regional do Cariri-URCA</a>. Continuei na docência sendo professora na rede municipal de ensino, ministrando Matemática e Ciências. Fui bolsista do <a href="https://www.gov.br/cnpq/pt-br" target="blank">CNPq</a> em um projeto de Extensão Tecnológica e Inclusão Digital que tinha por objetivo levar os alunos à inclusão digital, aqui a tecnologia começOU a ganhar um cantinho especial na minha vida, pois pude ver o quanto a tecnologia impacta as vidas das pessoas. Fui bolsista em um laboratório na Universidade na qual estudei auxiliando em aulas práticas na disciplina de Bioquímica, atuei na pesquisa, participei de diversos eventos científicos, principalmnente quando haviam temas ligados à Educação, Meio ambiente e Botânica. 
+Por acreditar no poder da educação e por ser fascinada pelas mais variadas formas de vida, ingressei na graduação em Ciências Biológicas na <a href="http://www.urca.br/portal2/" target="_blank">Universidade Regional do Cariri-URCA</a>. Continuei na docência sendo professora na rede municipal de ensino, ministrando Matemática e Ciências. Fui bolsista do <a href="https://www.gov.br/cnpq/pt-br" target="blank">CNPq</a> em um projeto de Extensão Tecnológica e Inclusão Digital que tinha por objetivo levar os alunos à inclusão digital, aqui a tecnologia começou a ganhar um cantinho especial na minha vida, pois pude ver o quanto a tecnologia impacta as vidas das pessoas. Fui bolsista em um laboratório na Universidade na qual estudei auxiliando em aulas práticas na disciplina de Bioquímica, atuei na pesquisa, participei de diversos eventos científicos, principalmnente quando haviam temas ligados à Educação, Meio ambiente e Botânica. 
 
 Após a formatura, fiz especialização em Educação Ambiental e Desenvolvimento Sustentável na <a href="https://faveni.edu.br/?gclid=Cj0KCQjw2cWgBhDYARIsALggUhrl9mnGKSkbRXka2W_SYblw-PB9dOEdnoHJdeWHIrV7u5wxSI-P0TIaAuF7EALw_wcB" target="_blank">Faculdade Venda Nova do Imigrante-FAVENI</a> e mestrado em <a href="http://www.urca.br/ppgdr/" target="blank">Diversidade Biológica e Recursos Naturais<a/> na <a href="http://www.urca.br/portal2/" target="_blank">Universidade Regional do Cariri-URCA</a>, fui bolsista da <a href="https://www.funcap.ce.gov.br/" target="blank">Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico</a>, a qual financiou o meu projeto de pesquisa que resultou na minha <a href="http://www.urca.br/ppgdr/wp-content/uploads/sites/38/2022/09/DISSERTACAO-FRANCISCA-GRACIELE-LEITE.pdf" target="_blank">dissertação</a> com dois artigos e dois guias de campo publicados.  
 
@@ -120,9 +120,11 @@ Fiz transição de carreira e estou concluindo o curso de Desenvolvimento Web na
 
 <hr></hr>
 
-<div align="center">
+<div align="left" width="250">
   <a href="https://github.com/graciele-sampaio">
   <img src="https://github-readme-stats.vercel.app/api?username=graciele-sampaio&show_icons=true&theme=dracula"/>
+</div>
+<div align="left"  width="250">	
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciele-sampaio&layout=compact&theme=dracula"/>
 </div>
 
